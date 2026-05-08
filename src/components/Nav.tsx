@@ -10,7 +10,7 @@ export function Nav() {
         <Link
           href="/"
           className="flex items-center gap-2 group"
-          aria-label="MOMumental Moments · Home"
+          aria-label="MOMumental Moments® · Home"
         >
           <span className="text-pink font-serif italic text-3xl leading-none group-hover:text-pink-deep transition">
             M
