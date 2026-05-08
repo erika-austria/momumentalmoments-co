@@ -312,7 +312,7 @@ export default function HomePage() {
                   For seven years it was a private notebook. The thing I kept open while I led acquisitions, raised four boys, and built every other thing I built. The phrase named what nobody else was naming.
                 </p>
                 <p>
-                  Five years ago Mother&apos;s Day, I was scrubbing a neon-green pool. Senior leadership at a global firm. The image was intact. The body was already changing without permission.
+                  A cross-country move, followed by a nasty divorce that left me scrubbing a neon-green pool on Mother&apos;s Day. CEO of Community Supporting Moms. In perimenopause without knowing it. Co-blending a family. Then a baby at 40.
                 </p>
                 <p>
                   Four years of being dismissed by doctors. Then I got pregnant at 40. Sold a company six months pregnant. Delivered a 9lb 12oz baby boy. Four months in, the floor opened up.
