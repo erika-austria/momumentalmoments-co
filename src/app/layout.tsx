@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Cormorant_Garamond, Geist, Geist_Mono } from "next/font/google";
+import { AnalyticsScripts } from "@/components/AnalyticsScripts";
 import "./globals.css";
 
 const cormorant = Cormorant_Garamond({
@@ -140,6 +141,7 @@ export default function RootLayout({
           Skip to main content
         </a>
         <main id="main">{children}</main>
+        <AnalyticsScripts />
       </body>
     </html>
   );
