@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-cormorant: "Cormorant Garamond";
+    --font-geist: "Geist";
+    --font-geist-mono: "Geist Mono";
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    background: #FFF9F1;
+    color: #2f4858;
+    font-family: var(--font-geist), "Inter Tight", "Inter", "Helvetica Neue", sans-serif;
+  }
+
+  ::selection {
+    background: #F086DC;
+    color: #FFF9F1;
+  }
+}
+
+@layer components {
+  .eyebrow {
+    @apply font-mono uppercase tracking-eyebrow text-xs;
+  }
+  .btn-primary {
+    @apply inline-flex items-center gap-2 px-6 py-3 bg-pink hover:bg-pink-deep text-white text-xs font-semibold tracking-[0.1em] uppercase rounded-sm transition-colors;
+  }
+  .btn-secondary {
+    @apply inline-flex items-center gap-2 px-6 py-3 border border-navy/30 text-navy hover:border-pink hover:text-pink text-xs font-semibold tracking-[0.1em] uppercase rounded-sm transition-colors;
+  }
+}
