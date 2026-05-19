@@ -128,7 +128,7 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(ROOT_JSON_LD) }}
         />
-        <meta name="theme-color" content="#FFF9F1" />
+        <meta name="theme-color" content="#FFF9F1" /><meta name="facebook-domain-verification" content="wonyzl80nemnrg8emzvxnvitrpycvc" />
         <meta name="color-scheme" content="light" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
