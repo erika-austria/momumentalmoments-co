@@ -61,7 +61,7 @@ const PAGE_JSON_LD = {
       name: "MOMumental Moments",
       alternateName: "MOMumental Moments®",
       description:
-        "The parent IP behind The PHASE™ and The Power Method®. Built for women rebuilding everything that matters.",
+        "The registered women's reinvention movement founded by Erika Hanafin Austria. Parent brand to The PHASE™, MOMumental Reinvention Substack, and MOMumental Reinvention Podcast. One woman. One journey. Three doors. FEELS · WORKS · HEARS. Built for women rebuilding everything that matters.",
       logo: "https://momumentalmoments.co/icon.png",
       url: "https://momumentalmoments.co",
       founder: { "@id": "https://erikahanafin.com/#person" },
@@ -128,32 +128,52 @@ export default function HomePage() {
       />
 
       {/* SECTION 1 · HERO */}
-      {/* CUE: she just landed · ROUTINE: read H1 + scan two CTAs · REWARD: instant orient */}
+      {/* CUE: she just landed · ROUTINE: read H1 + scan three doors + two CTAs · REWARD: instant orient on the 3-verb framework */}
       <section className="bg-cream py-20 md:py-28 px-6 md:px-10 lg:px-20 border-b border-navy/10">
         <div className="max-w-5xl mx-auto">
-          <div className="eyebrow text-pink mb-6">THE PARENT IP</div>
+          <div className="eyebrow text-pink mb-6">THE REGISTERED MOVEMENT</div>
           <h1 className="font-serif text-5xl md:text-6xl lg:text-7xl leading-[1.05] text-navy mb-8">
             MOMumental Moments<sup className="text-3xl md:text-4xl">®</sup>
             <br />
-            <span className="italic text-pink">behind everything I build</span>.
+            <span className="italic text-pink">one woman, one journey, three doors</span>.
           </h1>
-          <p className="text-xl md:text-2xl text-navy/75 leading-relaxed max-w-3xl mb-10">
-            The registered parent IP behind The PHASE<sup>™</sup> and The Power Method<sup>®</sup>. Two consumer products. One voice. Built for women rebuilding everything that matters.
+          <p className="text-xl md:text-2xl text-navy/75 leading-relaxed max-w-3xl mb-8">
+            The registered women&apos;s reinvention movement founded by Erika Hanafin Austria. Built for women rebuilding everything that matters.
           </p>
+
+          {/* Three doors · the 3-verb framework deployed */}
+          <ul className="space-y-3 text-lg md:text-xl text-navy/90 leading-relaxed max-w-3xl mb-10 border-l-2 border-pink pl-6">
+            <li>
+              <strong className="text-navy">MOMumental Reinvention Substack</strong> <span className="text-navy/70">·</span> where she <em className="text-pink not-italic font-semibold">FEELS</em> it.
+            </li>
+            <li>
+              <strong className="text-navy">The PHASE<sup>™</sup></strong> <span className="text-navy/70">·</span> where she <em className="text-pink not-italic font-semibold">WORKS</em> it.
+            </li>
+            <li>
+              <strong className="text-navy">MOMumental Reinvention Podcast</strong> <span className="text-navy/70">·</span> where she <em className="text-pink not-italic font-semibold">HEARS</em> it. <span className="text-navy/60 text-base">Launches June 2026.</span>
+            </li>
+          </ul>
+
+          <p className="text-base md:text-lg italic text-navy/85 mb-10 max-w-2xl">
+            Becoming, not being. A build, not a mood.
+          </p>
+
           <div className="flex flex-wrap gap-4">
             <a
-              href="https://thisisphase.co"
+              href="https://www.momumentalreinvention.com"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary"
             >
-              The PHASE<sup>™</sup> is live →
+              Subscribe to the Substack →
             </a>
             <a
-              href="https://erikahanafin.com/co-parenting-power-method"
+              href="https://thisisphase.co"
+              target="_blank"
+              rel="noopener noreferrer"
               className="btn-secondary"
             >
-              The Power Method<sup>®</sup>
+              Get The PHASE<sup>™</sup>
             </a>
           </div>
         </div>
