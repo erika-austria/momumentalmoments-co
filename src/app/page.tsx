@@ -150,7 +150,7 @@ export default function HomePage() {
               <strong className="text-navy">The PHASE<sup>™</sup></strong> <span className="text-navy/70">·</span> where she <em className="text-pink not-italic font-semibold">WORKS</em> it.
             </li>
             <li>
-              <strong className="text-navy">MOMumental Reinvention Podcast</strong> <span className="text-navy/70">·</span> where she <em className="text-pink not-italic font-semibold">HEARS</em> it. <span className="text-navy/60 text-base">Launches June 2026.</span>
+              <strong className="text-navy">MOMumental Reinvention Podcast</strong> <span className="text-navy/70">·</span> where she <em className="text-pink not-italic font-semibold">HEARS</em> it. <span className="text-navy/60 text-base">Live now.</span>
             </li>
           </ul>
 
