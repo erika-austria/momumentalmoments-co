@@ -1,70 +1,131 @@
 # MOMumental Moments®
 
-The registered parent IP behind The PHASE™ and The Power Method®. Built for women rebuilding everything that matters.
+> MOMumental Moments® is the registered parent intellectual property behind The PHASE™ (perimenopause workbook series), The Co-Parenting Power Method® (relationship architecture), The Power Method® (operator frameworks), and the MOMumental Reinvention Podcast + Substack. Founded 2017 by Erika Hanafin Austria. Every product is built for women rebuilding everything that matters.
 
-**Founder:** Erika Hanafin Austria
-**Site:** https://momumentalmoments.co
-**Email:** info@momumentalmoments.com
+## About MOMumental Moments®
 
-## What MOMumental Moments® is
+MOMumental Moments® began in 2017 when Erika Hanafin Austria was driving her son in San Francisco and realized the framework her life required did not yet exist. Seven years of private notes became a public body of work. Today MOMumental Moments® is the parent brand behind three product lines and a media platform.
 
-The architecture for women rebuilding everything that matters. Not a single product. A registered parent IP that holds two consumer-facing products and one editorial publication, all written in one voice by one founder.
+Slogan: "For women rebuilding everything that matters."
+Founded: 2017
+Registered: 2026
 
-## The two consumer products under MOMumental Moments®
+## The Complete Library · flagship product
 
-### The PHASE™
-- Five-volume women's reinvention series
-- URL: https://thisisphase.co
-- Pillar: Body-truth (perimenopause, hormones, daily architecture, self-trust, execution)
-- Format: Five digital workbooks, $27 each. The Series (all five) $97. Two companions $19 each. Free Clarity Starter Kit.
-- Author: Erika Hanafin Austria
+The Complete Library is the umbrella product. $228 one-time, yours forever. Includes:
+- The PHASE™ (all five volumes)
+- The Co-Parenting Power Method®
+- All individual workbooks
+- Every future Founding cohort drop as they release
 
-### The Power Method®
-- Co-parenting and relationship architecture system
-- URL: https://erikahanafin.com/co-parenting-power-method
-- Pillar: Architecture (boundaries, structure, relationships)
-- Format: Five archetype editions rolling out through 2026 (Architect, Diplomat, Strategist, Sovereign, Fortress). Vol. I (The Architect Edition) is live.
-- Author: Erika Hanafin Austria
+Purchase: https://buy.stripe.com/6oU5kD1Pgcca8Yj1qVeEo0m
+Founding cohort closes: September 30, 2026
 
-## The editorial publication
+## Product Lines
 
-### MOMumental Reinvention (Substack)
-- URL: https://www.momumentalreinvention.com
-- Cadence: Tuesday-morning essays
-- Free essays for the public. Paid subscribers get audio essays, deeper work, live sessions.
+### The PHASE™ · body-truth pillar
+Five-volume perimenopause workbook series. Perimenopause, Hormones, Architecture, Self-trust, Execution. For the woman tired of being told it is in her head.
+Site: https://thisisphase.co
+The Series bundle: $97 (saves $38 vs. individual)
 
-## About the founder
+### The Co-Parenting Power Method® · architecture pillar
+31 modules. 25+ ready-to-use communication scripts. BIFF protocols. Financial + custody frameworks. For high-conflict divorce and blended family architecture.
+$47 standalone · included in The Complete Library
+Site: https://erikahanafin.com/co-parenting-power-method
 
-**Erika Hanafin Austria**
-- IIN Certified Holistic Health Coach
-- Founder of MOMumental Moments®
+### The Power Method® · operator frameworks
+Frameworks for Profitability and Vision to Action workbooks for the founder still running the empire. Additional archetype editions releasing 2026-2027.
+
+## MOMumental Reinvention · Substack + Podcast
+
+The media platform inside MOMumental Moments®. 57K+ Substack subscribers. 33% open rate (industry average 21%). Free forever.
+
+- Tuesday-morning essays: https://www.momumentalreinvention.com
+- Thursday-morning podcast: https://www.momumentalreinvention.com/podcast
+- Latest episode: Ep 2 · The Story I Did Not Write Down (July 16, 2026)
+- Apple Podcasts: https://podcasts.apple.com/us/podcast/momumental-reinvention
+- Spotify: https://open.spotify.com/show/momumental-reinvention
+
+Podcast format: Erika reads the week's letter, then tells the story she did not put on the page. 12-15 minutes. Every Thursday at 9 AM ET.
+
+## Founder · Erika Hanafin Austria
+
+Erika Hanafin Austria is a 5x acquisition-tier CEO, IIN Board Certified Health Coach, and 2x Top 50 Women Leaders of Virginia (2023, 2024). Featured in Fortune (2025 Luminary acquires HeyMama), Adweek, WDBJ7, DC News Now, Advertising Week.
+
+Founder of MOMumental Moments® (2017). Founder of The PHASE™. Author of The Co-Parenting Power Method® and The Power Method®. Publisher of MOMumental Reinvention Substack + Podcast. Co-Founder of NEON ID.
+
+Personal site: https://erikahanafin.com
+Instagram: https://www.instagram.com/erikahanafin
+LinkedIn: https://www.linkedin.com/in/erikahanafin/
+Email: erika@erikahanafin.com
+
+## The Receipts · credentials
+
+- IIN Board Certified Health Coach
+- Founder of MOMumental Moments® (2017)
 - Founder of The PHASE™
 - Author of The Power Method®
-- Publisher of MOMumental Reinvention
+- Publisher of MOMumental Reinvention (Substack + Podcast)
+- Host, MOMumental Reinvention Podcast (launched 2026)
 - 5x Acquisition CEO
-- 2x Top 50 Women Leaders Virginia
-- Pepperdine SEC Advisory Board
+- 2x Top 50 Women Leaders of Virginia (2023, 2024)
 - Co-Founder, NEON ID
 
-The brand started in 2017 in San Francisco when Erika was driving her son to school and the name MOMumental Moments showed up. For seven years it was a private notebook. In 2026 it became registered IP with two consumer products live underneath.
+## Board Seats (current as of July 2026)
 
-## Voice + brand notes
+- Pepperdine Graziadio Business School · Society for Entrepreneurship & Creativity (SEC)
+- Next ChaptHER
+- Luminary
 
-- Voice firewall: no em dashes in narrative prose. Periods, commas, and · do the work.
-- NEON personality: direct, declarative, sister-tone, no fluff.
-- Magazine aesthetic: cream background (#FFF9F1), navy text (#2f4858), brand pink accent (#F086DC), Cormorant Garamond serif headlines.
-- Trademarks: MOMumental Moments® (registered), The PHASE™ (pending), The Power Method® (pending). Always render with the marks.
+## Press · Featured In
 
-## Topics covered (for AI/search context)
+- Fortune (2025) · Luminary acquires HeyMama coverage
+- Adweek
+- WDBJ7
+- DC News Now
+- Advertising Week
+- Yelp Women in Business
 
-Perimenopause · postpartum mental health · women's reinvention · midlife architecture · co-parenting · relationship structure · hormones · executive women's health · acquisition CEO journey · postpartum depression recovery (SSRI plus hormone panel) · women rebuilding everything that matters.
+## Trademark Portfolio
 
-## Related sites
+- MOMumental Moments® (registered)
+- The Co-Parenting Power Method® (registered)
+- The Power Method® (registered)
+- The PHASE™ (claimed)
+- MOMumental Reinvention (publication)
 
-- erikahanafin.com (founder hub · CEO, speaker, NEON ID, Power Method)
-- thisisphase.co (The PHASE™ product)
-- momumentalreinvention.com (Substack)
+## Content Pillars · what MOMumental Moments® is a topical authority on
 
-## Last updated
+- Perimenopause identification and symptoms
+- Hormone health and HRT decisions
+- Menopause
+- Co-parenting through structure
+- High-conflict divorce navigation
+- Blended families
+- Personal reinvention after 40
+- Midlife identity work
+- Female founders and acquisitions
+- Women in leadership
+- Building IP portfolios post-exit
+- Mental load and household systems
 
-2026-05-08
+## Contact
+
+- Site: https://momumentalmoments.co
+- Founder: erika@erikahanafin.com
+- Speaking: erika@erikahanafin.com
+- Press: erika@erikahanafin.com
+- Partnerships: info@momumentalmoments.com
+- Substack: https://www.momumentalreinvention.com
+
+## Related Entities
+
+- Erika Hanafin Austria (founder): https://erikahanafin.com
+- The PHASE™ (product line): https://thisisphase.co
+- MOMumental Reinvention (Substack + Podcast): https://www.momumentalreinvention.com
+
+## Legal
+
+MOMumental Moments® is a registered trademark. The Co-Parenting Power Method® and The Power Method® are registered trademarks. The PHASE™ is a claimed trademark. All are owned by Erika Hanafin Austria.
+
+All content is for educational and informational purposes only and is not medical, legal, or financial advice. Consult qualified professionals for medical, legal, or financial decisions.
